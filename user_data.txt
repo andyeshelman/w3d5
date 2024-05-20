@@ -1,0 +1,6 @@
+{'user_id': 'jtri1968', 'name': 'Joey Tribbiani', 'birth_year': '1968', 'borrowed': {'aotcgl2002', 'tpmgl1999'}, 'holds': set()}
+{'user_id': 'rgre1970', 'name': 'Rachel Greene', 'birth_year': '1970', 'borrowed': set(), 'holds': set()}
+{'user_id': 'cbin1968', 'name': 'Chandler Bing', 'birth_year': '1968', 'borrowed': set(), 'holds': {'tpmgl1999'}}
+{'user_id': 'mgel1969', 'name': 'Monica Geller', 'birth_year': '1969', 'borrowed': {'cckv1963'}, 'holds': set()}
+{'user_id': 'rgel1967', 'name': 'Ross Geller', 'birth_year': '1967', 'borrowed': {'tfotrjrrt1954', 'trotkjrrt1955', 'tttjrrt1954'}, 'holds': set()}
+{'user_id': 'pbuf1966', 'name': 'Phoebe Buffay', 'birth_year': '1966', 'borrowed': {'thjrrt1937'}, 'holds': {'tfotrjrrt1954', 'tttjrrt1954'}}

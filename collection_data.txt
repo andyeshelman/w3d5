@@ -1,0 +1,14 @@
+{'book_id': 'cckv1963', 'title': "Cat's Cradle", 'author': 'Kurt Vonnegut', 'pub_year': '1963', 'current_user_id': 'mgel1969', 'due_date': None, 'holds': []}
+{'movie_id': 'tpmgl1999', 'title': 'The Phantom Menace', 'director': 'George Lucas', 'rel_year': '1999', 'current_user_id': 'jtri1968', 'due_date': None, 'holds': ['cbin1968']}
+{'movie_id': 'aotcgl2002', 'title': 'Attack of the Clones', 'director': 'George Lucas', 'rel_year': '2002', 'current_user_id': 'jtri1968', 'due_date': None, 'holds': []}
+{'movie_id': 'rotsgl2005', 'title': 'Revenge of the Sith', 'director': 'George Lucas', 'rel_year': '2005', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'movie_id': 'anhgl1977', 'title': 'A New Hope', 'director': 'George Lucas', 'rel_year': '1977', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'movie_id': 'tesbik1980', 'title': 'The Empire Strikes Back', 'director': 'Irvin Kershner', 'rel_year': '1980', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'movie_id': 'rotjrm1983', 'title': 'Return of the Jedi', 'director': 'Richard Marquand', 'rel_year': '1983', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'movie_id': 'tfajja2015', 'title': 'The Force Awakens', 'director': 'J. J. Abrams', 'rel_year': '2015', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'movie_id': 'tljrj2017', 'title': 'The Last Jedi', 'director': 'Rian Johnson', 'rel_year': '2017', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'movie_id': 'trosjja2019', 'title': 'The Rise of Skywalker', 'director': 'J. J. Abrams', 'rel_year': '2019', 'current_user_id': None, 'due_date': None, 'holds': []}
+{'book_id': 'thjrrt1937', 'title': 'The Hobbit', 'author': 'J. R. R. Tolkien', 'pub_year': '1937', 'current_user_id': 'pbuf1966', 'due_date': None, 'holds': []}
+{'book_id': 'tfotrjrrt1954', 'title': 'The Fellowship of the Ring', 'author': 'J. R. R. Tolkien', 'pub_year': '1954', 'current_user_id': 'rgel1967', 'due_date': None, 'holds': ['pbuf1966']}
+{'book_id': 'tttjrrt1954', 'title': 'The Two Towers', 'author': 'J. R. R. Tolkien', 'pub_year': '1954', 'current_user_id': 'rgel1967', 'due_date': None, 'holds': ['pbuf1966']}
+{'book_id': 'trotkjrrt1955', 'title': 'The Return of the King', 'author': 'J. R. R. Tolkien', 'pub_year': '1955', 'current_user_id': 'rgel1967', 'due_date': None, 'holds': []}
